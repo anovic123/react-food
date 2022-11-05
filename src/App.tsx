@@ -11,9 +11,9 @@ import NotFoundBlock from "./components/NotFoundBlock";
 const App: React.FC = () => {
   return (
     <Routes>
-        <Route path="/" element={<MainLayout />}>
-          <Route path="" element={<Home />} />
-          <Route path="cart" element={<Cart />} />
+        <Route path="" element={<MainLayout />}>
+          <Route path="react-food/" element={<Home />} />
+          <Route path="react-food/cart" element={<Cart />} />
           <Route path="*" element={<NotFoundBlock />} />
         </Route>
     </Routes>

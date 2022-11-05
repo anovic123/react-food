@@ -1,0 +1,254 @@
+[
+  {
+   "id": "0",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/kombo_vegetarianec_.png?itok=_11SRpP7 2x",
+   "title": "Комбо Вегетаріанець 🌿",
+   "descrp": "Дві вегетаріанські піци 25см + два напої",
+   "price": 259,
+   "rating": 3,
+   "category": 2
+  },
+  {
+   "id": "1",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/kombo_dlya_druziv2.png?itok=2kbNBTf8 2x",
+   "title": "Комбо для Друзів",
+   "descrp": "MIX набір (дві піци, два набори крил і два напої), для компанії 4-8 осіб.",
+   "price": 499,
+   "rating": 2,
+   "category": 2
+  },
+  {
+   "id": "2",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/kombo_dlya_odnogo2.png?itok=U3Gnn0kA 2x",
+   "title": "Комбо для Одного",
+   "descrp": "Супер МIХ найулюбленіших позицій. Підходить для компанії 1-3 чол.",
+   "price": 289,
+   "rating": 4,
+   "category": 2
+  },
+  {
+   "id": "3",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/f20527ca-c5a4-49f2-ba20-5067a065415a.png?itok=yafQJCUH 2x",
+   "title": "Сирні палички з соусом BUFFALO",
+   "descrp": "сирні палички в паніровці з авторським соусом BUFFALO 150г / 30",
+   "price": 129,
+   "rating": 5,
+   "category": 2
+  },
+  {
+   "id": "4",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/chuka.png?itok=pIumu2l2 2x",
+   "title": "Салат з Чукой",
+   "descrp": "традиційна японська страва на основі бурих водоростей вакаме з горіховим соусом 155г",
+   "price": 99,
+   "rating": 2,
+   "category": 3
+  },
+  {
+   "id": "5",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/_dsc3302_1.png?itok=XaMcODoF 2x",
+   "title": "Крила BUFFALO 225/40г 🌶️",
+   "descrp": "курячі крильця з авторським соусом BUFFALO",
+   "price": 109,
+   "rating": 4,
+   "category": 3
+  },
+  {
+   "id": "6",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/_dsc3304.png?itok=UqIFmHdn 2x",
+   "title": "Крила BUFFALO 425/80г 🌶️",
+   "descrp": "курячі крильця з авторським соусом BUFFALO",
+   "price": 199,
+   "rating": 3,
+   "category": 3
+  },
+  {
+   "id": "7",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/filadelfiya_s_lososem_.png?itok=GZvbRolo 2x",
+   "title": "LUX PHILADELPHIA з лососем",
+   "descrp": "васабі, імбир, крем-сир, лосось, мікрогрин, норі, огірок, рис, соєвий соус. 320г",
+   "price": 200,
+   "rating": 2,
+   "category": 4
+  },
+  {
+   "id": "8",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/filadelfiya_s_avokado.png?itok=5ogP0aFr 2x",
+   "title": "LUX PHILADELPHIA з лососем та авокадо ",
+   "descrp": "васабі,імбир,авокадо,крем-сир,лосось,норі,рис,соус унагі, соєвий соус. 330г",
+   "price": 240,
+   "rating": 1,
+   "category": 4
+  },
+  {
+   "id": "9",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/fila_tataki.png?itok=eqIppVV7 2x",
+   "title": "LUX PHILA  Татакі з лососем та  авокадо ",
+   "descrp": "авокадо, васабі, імбир, крем-сир, лосось, норі, рис, соус унагі, соєвий соус. 335г",
+   "price": 240,
+   "rating": 5,
+   "category": 4
+  },
+  {
+   "id": "10",
+   "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/filadelfiya_s_lososem_i_mango.png?itok=eIsnmY8v 2x",
+   "title": "LUX PHILADELPHIA з лососем та манго",
+   "descrp": "васабі, імбир, крем-сир, лосось, манго, микрогрін, норі, соєвий соус. 325г ",
+   "price": 250,
+   "rating": 4,
+   "category": 4
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/lego-pitsa.png?itok=U2_QBlSD 2x",
+    "title": "LEGO - піца",
+    "descrp": "sous тісто, вершкова моцарелла, італійські трави, соус TOMATO",
+    "price": 89,
+    "rating": 2,
+    "category": 1
+   },
+   {
+    "id": "12",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/marharyta.png?itok=XcYwMH92 2x",
+    "title": "Маргарита 🌿",
+    "descrp": "sous тісто, італійські трави, вершкова моцарелла, соус TOMATO, томат",
+    "price": 99,
+    "rating": 5,
+    "category": 1
+   },
+   {
+    "id": "13",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/bektuskul.png?itok=Rf8a2ZsC 2x",
+    "title": "BACK TO SCHOOL",
+    "descrp": "sous тісто, ананаси, вершкова моцарелла, італійські трави, кукурудза, соус RANCH, соус TOMATO, шинка",
+    "price": 99,
+    "rating": 3,
+    "category": 1
+   },
+   {
+    "id": "14",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/_dsc3022.png?itok=Mk4s1Rsx 2x",
+    "title": "Овочева з грибами 🌿",
+    "descrp": "sous тісто, вершкова моцарелла, італійські трави, кукурудза, оливки, перець паприка, печериці, соус TOMATO, томат, цибуля маринована, печериці мариновані",
+    "price": 99,
+    "rating": 2,
+    "category": 1
+   },
+   {
+    "id": "15",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/_dsc3099.png?itok=4uovw1Hv 2x",
+    "title": "Комбо Чотири Піци",
+    "descrp": "Швидкий ХІТ, підібрані 4 популярних піци для швидкого замовлення.",
+    "price": 449,
+    "rating": 4,
+    "category": 1
+   },
+   {
+    "id": "16",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/uzvar.png?itok=BOgQAsjD 2x",
+    "title": "Uzvar 0,35л",
+    "descrp": "",
+    "price": 22,
+    "rating": 2,
+    "category": 5
+   },
+   {
+    "id": "17",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/kompot.png?itok=kfRxEWgp 2x",
+    "title": "Compote 0,35л",
+    "descrp": "",
+    "price": 22,
+    "rating": 5,
+    "category": 5
+   },
+   {
+    "id": "18",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/coca_cola_1l_1.png?itok=bgzryyCB 2x",
+    "title": "Coca-Cola 1л",
+    "descrp": "",
+    "price": 35,
+    "rating": 3,
+    "category": 5
+   },
+   {
+    "id": "19",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/coca_cola_0.5.png?itok=E2Kswt82 2x",
+    "title": "Coca-Cola 0,5л",
+    "descrp": "",
+    "price": 25,
+    "rating": 1,
+    "category": 5
+   },
+   {
+    "id": "20",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/pincher.png?itok=twKTTQl5 2x",
+    "title": "Пінчер",
+    "descrp": "",
+    "price": 79,
+    "rating": 2,
+    "category": 6
+   },
+   {
+    "id": "21",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/polunichniy.png?itok=LA921hX3 2x",
+    "title": "Полуничний чізкейк",
+    "descrp": "",
+    "price": 99,
+    "rating": 1,
+    "category": 6
+   },
+   {
+    "id": "22",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/chernye_1.png?itok=w7y17IxK 2x",
+    "title": "Рулетики з шоколадом",
+    "descrp": "",
+    "price": 59,
+    "rating": 4,
+    "category": 6
+   },
+   {
+    "id": "23",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/krasnye3.png?itok=UTJm8iyo 2x",
+    "title": "Рулетики з малиновим соусом",
+    "descrp": "",
+    "price": 59,
+    "rating": 5,
+    "category": 6
+   },
+   {
+    "id": "24",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/zobrazhennya_viber_2020-07-31_10-03-34.png?itok=s4EPiTMA 2x",
+    "title": "Соус RANCH 30г",
+    "descrp": "",
+    "price": 14,
+    "rating": 3,
+    "category": 7
+   },
+   {
+    "id": "25",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/zobrazhennya_viber_2020-07-31_10-03-33_0.png?itok=20K-mgh8 2x",
+    "title": "Соус BUFFALO 30г",
+    "descrp": "",
+    "price": 14,
+    "rating": 1, 
+    "category": 7
+   },
+   {
+    "id": "26",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/smetana.png?itok=reKaqUo7 2x",
+    "title": "Соус СМЕТАНА 30г",
+    "descrp": "",
+    "price": 10,
+    "rating": 4,
+    "category": 7
+   },
+   {
+    "id": "27",
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/vassabi.png?itok=0rhfUMN4 2x",
+    "title": "WASABI 10г",
+    "descrp": "",
+    "price": 10,
+    "rating": 2,
+    "category": 7
+   }
+ ]

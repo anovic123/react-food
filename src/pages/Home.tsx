@@ -14,7 +14,6 @@ import { setCategoryId, setCurrentPage, setFilters} from '../redux/filter/slice'
 import { fetchProduct } from '../redux/product/asyncActions';
 import { SearchProductParams } from '../redux/product/types';
 
-
 const Home: React.FC = () => {
   const navigate = useNavigate();
   const dispatch = useAppDispatch();
@@ -35,7 +34,7 @@ const Home: React.FC = () => {
     const sortBy = sort.sortProperty.replace('-', '');
     const order = sort.sortProperty.includes('-') ? 'asc' : 'desc';
     const category = categoryId > 0 ? String(categoryId) : '';
-    const search =  searchValue;
+    const search = searchValue;
     dispatch(
       fetchProduct({
         sortBy,

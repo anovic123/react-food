@@ -41,7 +41,7 @@ const Header: React.FC = () => {
             </div>
             {
               location.pathname !== '/cart' && (
-              <Link to="/cart" className=" button-cart">
+              <Link to="react-food/cart" className=" button-cart">
                 <span>{totalPrice} грн.</span>
                 <div className="cart">
                   <span className="counter">{totalCount}</span>

@@ -1,0 +1,49 @@
+.sort {
+  position: relative;
+  &__label {
+    display: flex;
+    align-items: center;
+
+    svg {
+      margin-right: 8px;
+    }
+
+    b {
+      margin-right: 8px;
+    }
+
+    span {
+      font-weight: 700;
+      color: rgb(17, 94, 236);
+      border-bottom: 1px dashed rgb(17, 94, 236);
+      cursor: pointer;
+    }
+  }
+  &__popup {
+    position: absolute;
+    right: 0;
+    margin-top: 15px;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 10px 0;
+
+    ul {
+      overflow: hidden;
+      li {
+        padding: 12px 20px;
+        cursor: pointer;
+        &.active,
+        &:hover {
+          background: rgba(254, 95, 30, 0.05);
+        }
+
+        &.active {
+          font-weight: bold;
+          color: rgb(17, 94, 236);
+        }
+      }
+    }
+  }
+}

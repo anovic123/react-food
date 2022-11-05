@@ -1,0 +1,28 @@
+@import '../variables';
+
+.categories {
+  ul {
+    width: 100%;
+    height: 50px;
+    padding: 10px 0;
+    flex-wrap: nowrap;
+    display: flex;
+    overflow: auto;
+    align-items: center;
+    justify-content: space-evenly;
+    li {
+      font-size: 19px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      margin-right: 30px;
+      color: #818184;
+      cursor: pointer;
+      @media (any-hover: hover) {
+        &:hover {
+          color: #e30613;
+        }
+      }
+    }
+  }
+}

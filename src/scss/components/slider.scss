@@ -1,0 +1,15 @@
+@import '../variables';
+
+.slider-container {
+  @media (max-width: 520px) {
+    display: none;
+  }
+}
+
+.slider {
+  max-width: 100%;
+}
+
+.slider__image {
+  width: 100%;
+}

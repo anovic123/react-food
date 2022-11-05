@@ -1,0 +1,49 @@
+@import '../variables';
+
+.header {
+  &__top {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0 0 0;
+    @media (max-width: 620px) {
+      flex-direction: column;
+    }
+  }
+  &__logo {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    h1 {
+      font-weight: 700;
+      font-size: 24px;
+      margin: 0;
+    }
+    p {
+      margin-top: -5px;
+      color: #7b7b7b;
+    }
+  }
+  &__actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    @media (max-width: 620px) {
+      gap: 7px;
+    }
+  }
+  &__phone {
+    display: flex;
+    flex-direction: column;
+    a {
+      font-weight: 700;
+      font-size: 16px;
+      color: #000;
+    }
+    small {
+      font-size: 14px;
+      color: #6c6c6c;
+    }
+  }
+}
